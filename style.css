@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(13, 26, 41);
+}
+main {
+    display: flex;
+    max-width: 325px;
+    flex-direction: column;
+    text-align: center;
+}
+h1 {
+    margin: 0px;
+    display: inline-block;
+color: red;
+padding: 10px;
+text-decoration: underline;
+background-color: rgb(0, 0, 0);
+border: 1px solid red;
+box-shadow: 0px 1px 10px red;
+}
+p {
+    color: white;
+    text-shadow: 0px 1px 5px rgb(255, 255, 255);
+}
